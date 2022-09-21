@@ -1,0 +1,9 @@
+.DS_Store
+testnet.json
+
+/build/_workspace/
+/build/bin/
+/node_modules
+*.tar.gz
+*.rar
+/dist
